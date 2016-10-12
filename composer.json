@@ -1,12 +1,12 @@
 {
-    "name": "zelenin/telegram-bot-api",
+    "name": "denlapaev/telegram-bot-api",
     "description": "Telegram Bot API Client",
     "keywords": [
         "telegram",
         "bot",
         "api"
     ],
-    "homepage": "https://github.com/zelenin/telegram-bot-api",
+    "homepage": "https://github.com/denlapaev/telegram-bot-api",
     "license": "MIT",
     "authors": [
         {
