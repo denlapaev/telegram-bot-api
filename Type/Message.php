@@ -304,7 +304,7 @@ final class Message extends Type
         }
 
         if (isset($attributes['left_chat_member'])) {
-            $this->left_chat_member = new User($attributes['left_chat_member']);
+            $this->left_chat_member = User::create($attributes['left_chat_member']);
         }
 
         if (isset($attributes['new_chat_photo'])) {
